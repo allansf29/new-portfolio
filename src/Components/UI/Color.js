@@ -1,0 +1,16 @@
+export const black = "#000000";
+export const gray900 = "#121214";
+export const gray800 = "#202024";
+export const gray400 = "#7C7C8A";
+export const gray200 = "#C4C4CC";
+export const gray100 = "#E1E1E6";
+export const cyan300 = "#81D8F7";
+export const cyan500 = "#61DAFB";
+export const cyanTransparent = "#81d8f73d";
+export const white = "#ffffff";
+export const background = "linear-gradient(41deg, #000000, #1b1a1bd9, #000000d9, #000000)";
+export const purple = "#3e1bdb";
+export const cyanShadowText = "#00a1ad";
+export const whiteShadowText = "#fcfcfc"
+export const transparentGray = "#202122dc"
+export const red = "#ff0000"
